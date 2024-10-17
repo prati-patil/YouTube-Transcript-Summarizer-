@@ -15,8 +15,6 @@
 - Employs an asynchronous XMLHttpRequest to ensure non-blocking communication with the Flask Backend.
 
 
-## Output Screenshot
-![alt text](/extention/images/output.png?raw=true)
 
 ## Installation
 - Clone this repository to your local machine:
